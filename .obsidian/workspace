@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "👩‍🌾 Your Knowledge Garden.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -33,8 +34,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1bbc76374ae9a806",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7809a0592f8db2af",
@@ -63,16 +73,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "7946bc4e7b29c4d4",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
